@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+##Christian Vogel
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a senior data engineer at Vālenz Health. [valenzhealth.com](https://www.valenzhealth.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+See my for fun projects on GitHub:
+[https://github.com/Macrokosmos](https://github.com/Macrokosmos)
+Macrokosmos is a reference to a [trading card](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6682) I like
 
-
-[jekyll-organization]: https://github.com/jekyll
+Find me on LinkedIn:
+[Christian Vogel](https://www.linkedin.com/in/christian-vogel-58335299/)
