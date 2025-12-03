@@ -21,7 +21,11 @@
 title: "Christian Vogel's Blog"
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  On a mission to develop tech for God's glory. Hopefully my musings make sense along the way.
+  Practicing technology as an act of stewardship, 
+  committed to lifelong learning, and the design of lasting, ethical solutions. 
+  My work is an effort to use God-given talents for the common good, 
+  always reflecting on the purpose that gives the work its ultimate meaning. 
+  Contemplare et contemplata aliis tradere.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://macrokosmos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
