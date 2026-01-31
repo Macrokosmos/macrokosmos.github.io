@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joining the Claude Code Hype"
-date:   2026-01-31 12:00:00 -0600
+date:   2026-01-31 08:00:00 -0600
 categories:
 ---
 
