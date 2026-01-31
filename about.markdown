@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Christian Vogel
+## Christian Vogel
 
 I am a senior data engineer at Vālenz Health. [valenzhealth.com](https://www.valenzhealth.com/)
 
